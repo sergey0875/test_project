@@ -21,4 +21,4 @@ def get_mask_account(number_account: Union[str, int]) -> str:
     return f"Номер счета **{str(number_account)[-4:]}"
 
 
-print(get_mask_account(9811444477772822555555555))
+print(get_mask_account(25555555555559811444477772822555555555))
