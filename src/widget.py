@@ -18,6 +18,13 @@ def mask_account_card(account_card_number: str) -> str:
     else:
         masked_number = get_mask_account(number)
 
+    return f"{name} {masked_number}"
+
+
+if __name__ == "__main__":
+
+    print(mask_account_card("Visa Gold Platinum 7000792289606361"))
+
 
 def get_date(date: str) -> str:
     """Функция записывает корректно дату ДД.ММ.ГГ"""
