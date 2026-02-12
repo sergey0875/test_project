@@ -14,4 +14,3 @@ def sort_by_date(data_list: list[dict], reverse: bool = True) -> list[dict]:
     """Функция сортирует список словарей по дате"""
 
     return sorted(data_list, key=lambda x: x["date"], reverse=reverse)
-
