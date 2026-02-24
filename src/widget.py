@@ -21,15 +21,11 @@ def mask_account_card(account_card_number: str) -> str:
     return f"{name} {masked_number}"
 
 
-if __name__ == "__main__":
 
-    print(mask_account_card("Visa Gold Platinum 7000792289606361"))
 
 
 def get_date(date: str) -> str:
     """Функция записывает корректно дату ДД.ММ.ГГ"""
-
+    if not date:
+       return "Дата отсутсвует"
     return f"{date[8:10]}.{date[5:7]}.{date[0:4]}"
-
-
-print(get_date("2024-03-11T02:26:18.6714078"))
