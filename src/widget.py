@@ -21,11 +21,8 @@ def mask_account_card(account_card_number: str) -> str:
     return f"{name} {masked_number}"
 
 
-
-
-
 def get_date(date: str) -> str:
     """Функция записывает корректно дату ДД.ММ.ГГ"""
     if not date:
-       return "Дата отсутсвует"
+        return "Дата отсутсвует"
     return f"{date[8:10]}.{date[5:7]}.{date[0:4]}"
