@@ -17,7 +17,7 @@ def log(filename=None):
                 return result
 
             except Exception as e:
-                message = f"{func.__name__} error: {type(e).__name__}. "
+                message = f"{func.__name__} error: {type(e).__name__}. Inputs: {args}, {kwargs}"
                 _write(message, filename)
                 raise e
 
