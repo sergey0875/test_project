@@ -13,7 +13,7 @@ logger.addHandler(file_handler)
 def get_transactions(path):
     """Открываем и читаем файл operations.json"""
     try:
-        logger.debug(f"Открываю файл")
+        logger.debug("Открываю файл")
         with open(path, encoding="utf-8") as f:
             data = json.load(f)
 

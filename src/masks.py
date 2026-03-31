@@ -11,7 +11,7 @@ os.makedirs(LOG_DIR, exist_ok=True)
 # Полный путь к файлу
 LOG_FILE = os.path.join(LOG_DIR, "masks.log")
 
-# Логирование.
+# Логирование
 logger = logging.getLogger("masks")
 logger.setLevel(logging.DEBUG)
 file_handler = logging.FileHandler("logs/masks.log", encoding="utf-8")
