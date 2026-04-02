@@ -7,6 +7,10 @@ authors = [
 ]
 requires-python = ">=3.14"
 dependencies = [
+    "requests (>=2.33.0,<3.0.0)",
+    "python-dotenv (>=1.2.2,<2.0.0)",
+    "pandas (>=3.0.2,<4.0.0)",
+    "openpyxl (>=3.1.5,<4.0.0)"
 ]
 
 
@@ -22,7 +26,8 @@ lint = [
     "mypy (>=1.19.1,<2.0.0)"
 ]
 dev = [
-    "pytest-cov (>=7.0.0,<8.0.0)"
+    "pytest-cov (>=7.0.0,<8.0.0)",
+    "types-requests (>=2.33.0.20260327,<3.0.0.0)"
 ]
 
 [tool.black]

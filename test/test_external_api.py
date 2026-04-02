@@ -1,4 +1,3 @@
-
 from unittest.mock import ANY
 from unittest.mock import patch
 
