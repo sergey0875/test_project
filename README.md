@@ -21,7 +21,7 @@ black 26.1.0
 isort 7.0.0  
 pip 26.0   
 pandas      
-csv
+csv.
 openpyxl
 
 ## Тестирование
