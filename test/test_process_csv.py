@@ -1,4 +1,3 @@
-
 from unittest.mock import mock_open
 from unittest.mock import patch
 
@@ -23,7 +22,7 @@ def test_load_csv_data():
 
 @patch("pandas.read_excel")
 def test_import_excel_data(mock_read):
-    # Создаем фейковый DataFrame, который якобы вернул pandas
+    # Создаем фейковый DataFrame
     mock_read.return_value = pd.DataFrame([{"id": 2, "amount": 500}])
 
     result = import_excel_data("fake.xlsx")
