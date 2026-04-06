@@ -9,7 +9,7 @@ from src.process_csv import load_csv_data
 
 def test_load_csv_data():
     # Имитируем содержимое CSV файла (заголовки и одна строка)
-    csv_content = "id,amount,currency\n1,100,RUB"
+    csv_content = "id;amount;currency\n1;100;RUB"
 
     # Патчим open, чтобы он не лез на диск, а отдавал наш csv_content
     with patch("builtins.open", mock_open(read_data=csv_content)) as mocked_file:

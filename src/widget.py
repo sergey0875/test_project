@@ -5,6 +5,9 @@ from src.masks import get_mask_card_number
 def mask_account_card(account_card_number: str) -> str:
     """Функция маскирует номер счета или карты"""
 
+    if not account_card_number:
+        return ""
+
     parts = account_card_number.split()  # Разделяем строку на слова.
 
     number = parts[-1]  # Берем последнее слово из строки.

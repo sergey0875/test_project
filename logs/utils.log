@@ -74,3 +74,850 @@
 2026-04-02 12:57:05,716 - utils - ERROR: Произошла ошибка: 
 2026-04-02 12:57:05,722 - utils - DEBUG: Открываю файл
 2026-04-02 12:57:05,723 - utils - ERROR: Произошла ошибка: Expecting value: line 1 column 1 (char 0)
+2026-04-02 22:17:28,878 - utils - DEBUG: Открываю файл
+2026-04-02 22:17:28,880 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-02 22:17:29,071 - utils - DEBUG: Открываю файл
+2026-04-02 22:17:29,072 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-02 22:17:29,076 - utils - DEBUG: Открываю файл
+2026-04-02 22:17:29,076 - utils - ERROR: Произошла ошибка: 
+2026-04-02 22:17:29,082 - utils - DEBUG: Открываю файл
+2026-04-02 22:17:29,083 - utils - ERROR: Произошла ошибка: Expecting value: line 1 column 1 (char 0)
+2026-04-02 22:18:03,430 - utils - DEBUG: Открываю файл
+2026-04-02 22:18:03,431 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-02 22:18:03,575 - utils - DEBUG: Открываю файл
+2026-04-02 22:18:03,575 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-02 22:18:03,578 - utils - DEBUG: Открываю файл
+2026-04-02 22:18:03,579 - utils - ERROR: Произошла ошибка: 
+2026-04-02 22:18:03,585 - utils - DEBUG: Открываю файл
+2026-04-02 22:18:03,586 - utils - ERROR: Произошла ошибка: Expecting value: line 1 column 1 (char 0)
+2026-04-03 15:18:25,566 - utils - DEBUG: Открываю файл
+2026-04-03 15:18:25,567 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 15:18:41,115 - utils - DEBUG: Открываю файл
+2026-04-03 15:18:41,115 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 15:20:20,044 - utils - DEBUG: Открываю файл
+2026-04-03 15:20:20,045 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 15:20:43,521 - utils - DEBUG: Открываю файл
+2026-04-03 15:20:43,521 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 15:21:03,451 - utils - DEBUG: Открываю файл
+2026-04-03 15:21:03,452 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 15:21:12,281 - utils - DEBUG: Открываю файл
+2026-04-03 15:21:12,281 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 15:21:43,968 - utils - DEBUG: Открываю файл
+2026-04-03 15:21:43,968 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 15:26:14,665 - utils - DEBUG: Открываю файл
+2026-04-03 15:26:14,666 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 15:26:36,279 - utils - DEBUG: Открываю файл
+2026-04-03 15:26:36,279 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 15:27:02,760 - utils - DEBUG: Открываю файл
+2026-04-03 15:27:02,760 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 15:32:59,833 - utils - DEBUG: Открываю файл
+2026-04-03 15:32:59,833 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 15:36:12,420 - utils - DEBUG: Открываю файл
+2026-04-03 15:36:12,420 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 15:37:10,909 - utils - DEBUG: Открываю файл
+2026-04-03 15:37:10,910 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 15:37:30,967 - utils - DEBUG: Открываю файл
+2026-04-03 15:37:30,968 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 15:37:51,276 - utils - DEBUG: Открываю файл
+2026-04-03 15:37:51,276 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 15:38:17,615 - utils - DEBUG: Открываю файл
+2026-04-03 15:38:17,616 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 15:39:40,710 - utils - DEBUG: Открываю файл
+2026-04-03 15:39:40,710 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 15:41:30,218 - utils - DEBUG: Открываю файл
+2026-04-03 15:41:30,218 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 15:41:46,419 - utils - DEBUG: Открываю файл
+2026-04-03 15:41:46,420 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 15:42:27,177 - utils - DEBUG: Открываю файл
+2026-04-03 15:42:27,177 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 15:46:50,855 - utils - DEBUG: Открываю файл
+2026-04-03 15:46:50,855 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 15:46:54,800 - utils - DEBUG: Открываю файл
+2026-04-03 15:47:33,669 - utils - DEBUG: Открываю файл
+2026-04-03 15:47:33,669 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 15:54:37,837 - utils - DEBUG: Открываю файл
+2026-04-03 15:54:37,838 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 15:54:41,482 - utils - DEBUG: Открываю файл
+2026-04-03 15:54:41,482 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'operations.json'
+2026-04-03 15:56:02,374 - utils - DEBUG: Открываю файл
+2026-04-03 15:56:02,374 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 15:56:04,661 - utils - DEBUG: Открываю файл
+2026-04-03 15:56:04,661 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'operations.json'
+2026-04-03 15:56:11,313 - utils - DEBUG: Открываю файл
+2026-04-03 15:56:11,314 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 15:57:00,952 - utils - DEBUG: Открываю файл
+2026-04-03 15:57:00,952 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 15:57:03,771 - utils - DEBUG: Открываю файл
+2026-04-03 15:57:03,792 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-03 16:03:42,895 - utils - DEBUG: Открываю файл
+2026-04-03 16:03:42,895 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 16:06:41,712 - utils - DEBUG: Открываю файл
+2026-04-03 16:06:41,712 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 16:07:07,882 - utils - DEBUG: Открываю файл
+2026-04-03 16:07:07,882 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 16:07:27,027 - utils - DEBUG: Открываю файл
+2026-04-03 16:07:27,028 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 16:07:29,874 - utils - DEBUG: Открываю файл
+2026-04-03 16:07:29,891 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-03 16:07:34,843 - utils - DEBUG: Открываю файл
+2026-04-03 16:07:34,843 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 16:07:36,210 - utils - DEBUG: Открываю файл
+2026-04-03 16:07:36,212 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-03 16:07:40,003 - utils - DEBUG: Открываю файл
+2026-04-03 16:07:40,004 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 16:07:41,419 - utils - DEBUG: Открываю файл
+2026-04-03 16:07:41,421 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-03 17:49:23,325 - utils - DEBUG: Открываю файл
+2026-04-03 17:49:23,326 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 17:49:27,698 - utils - DEBUG: Открываю файл
+2026-04-03 17:49:27,701 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-03 17:50:00,712 - utils - DEBUG: Открываю файл
+2026-04-03 17:50:00,712 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 17:50:04,189 - utils - DEBUG: Открываю файл
+2026-04-03 17:50:04,191 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-03 17:50:24,090 - utils - DEBUG: Открываю файл
+2026-04-03 17:50:24,091 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 17:50:56,965 - utils - DEBUG: Открываю файл
+2026-04-03 17:50:56,966 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 17:52:17,701 - utils - DEBUG: Открываю файл
+2026-04-03 17:52:17,701 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 17:52:54,365 - utils - DEBUG: Открываю файл
+2026-04-03 17:52:54,365 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 17:53:16,996 - utils - DEBUG: Открываю файл
+2026-04-03 17:53:16,996 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 17:54:11,619 - utils - DEBUG: Открываю файл
+2026-04-03 17:54:11,619 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 17:54:16,175 - utils - DEBUG: Открываю файл
+2026-04-03 17:54:16,176 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-03 17:54:41,122 - utils - DEBUG: Открываю файл
+2026-04-03 17:54:41,122 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 17:54:45,685 - utils - DEBUG: Открываю файл
+2026-04-03 17:54:45,688 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-03 17:54:56,706 - utils - DEBUG: Открываю файл
+2026-04-03 17:54:56,707 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 17:54:58,329 - utils - DEBUG: Открываю файл
+2026-04-03 17:54:58,331 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-03 17:55:35,548 - utils - DEBUG: Открываю файл
+2026-04-03 17:55:35,548 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 17:55:38,661 - utils - DEBUG: Открываю файл
+2026-04-03 17:55:38,663 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-03 17:56:13,168 - utils - DEBUG: Открываю файл
+2026-04-03 17:56:13,168 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 17:56:18,775 - utils - DEBUG: Открываю файл
+2026-04-03 17:56:18,776 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-03 17:56:38,196 - utils - DEBUG: Открываю файл
+2026-04-03 17:56:38,196 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 17:56:48,337 - utils - DEBUG: Открываю файл
+2026-04-03 17:56:48,338 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 17:56:50,017 - utils - DEBUG: Открываю файл
+2026-04-03 17:56:50,018 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-03 17:57:05,434 - utils - DEBUG: Открываю файл
+2026-04-03 17:57:05,435 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 17:57:08,275 - utils - DEBUG: Открываю файл
+2026-04-03 17:57:08,277 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-03 17:57:38,455 - utils - DEBUG: Открываю файл
+2026-04-03 17:57:38,455 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 17:57:41,161 - utils - DEBUG: Открываю файл
+2026-04-03 17:57:41,162 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-03 17:57:52,643 - utils - DEBUG: Открываю файл
+2026-04-03 17:57:52,643 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 18:03:50,849 - utils - DEBUG: Открываю файл
+2026-04-03 18:03:50,849 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 18:03:54,121 - utils - DEBUG: Открываю файл
+2026-04-03 18:03:54,123 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-03 18:04:18,231 - utils - DEBUG: Открываю файл
+2026-04-03 18:04:18,231 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 18:04:20,068 - utils - DEBUG: Открываю файл
+2026-04-03 18:04:20,069 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-03 18:04:20,069 - utils - DEBUG: Открываю файл
+2026-04-03 18:04:20,071 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-03 18:05:04,591 - utils - DEBUG: Открываю файл
+2026-04-03 18:05:04,591 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-03 18:05:09,349 - utils - DEBUG: Открываю файл
+2026-04-03 18:05:09,350 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-04 11:40:04,165 - utils - DEBUG: Открываю файл
+2026-04-04 11:40:04,166 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-04 11:40:12,342 - utils - DEBUG: Открываю файл
+2026-04-04 11:40:12,345 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-04 11:40:12,345 - utils - DEBUG: Открываю файл
+2026-04-04 11:40:12,348 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-04 11:41:53,150 - utils - DEBUG: Открываю файл
+2026-04-04 11:41:53,150 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-04 11:41:56,087 - utils - DEBUG: Открываю файл
+2026-04-04 11:41:56,089 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-04 11:41:56,089 - utils - DEBUG: Открываю файл
+2026-04-04 11:41:56,091 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-04 11:47:17,594 - utils - DEBUG: Открываю файл
+2026-04-04 11:47:17,594 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-04 11:47:19,989 - utils - DEBUG: Открываю файл
+2026-04-04 11:47:19,991 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-04 11:47:19,991 - utils - DEBUG: Открываю файл
+2026-04-04 11:47:19,993 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-04 11:55:31,737 - utils - DEBUG: Открываю файл
+2026-04-04 11:55:31,737 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-04 11:55:47,694 - utils - DEBUG: Открываю файл
+2026-04-04 11:55:47,696 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-04 11:56:09,725 - utils - DEBUG: Открываю файл
+2026-04-04 11:56:09,725 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-04 11:56:11,754 - utils - DEBUG: Открываю файл
+2026-04-04 11:56:11,756 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-04 12:04:59,420 - utils - DEBUG: Открываю файл
+2026-04-04 12:04:59,421 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-04 12:05:02,061 - utils - DEBUG: Открываю файл
+2026-04-04 12:05:02,063 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-04 12:05:16,156 - utils - DEBUG: Открываю файл
+2026-04-04 12:05:16,157 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-04 12:05:17,507 - utils - DEBUG: Открываю файл
+2026-04-04 12:05:17,509 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-04 12:07:59,140 - utils - DEBUG: Открываю файл
+2026-04-04 12:07:59,141 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-04 12:08:01,583 - utils - DEBUG: Открываю файл
+2026-04-04 12:08:01,585 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-04 12:09:52,386 - utils - DEBUG: Открываю файл
+2026-04-04 12:09:52,386 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-04 12:09:55,942 - utils - DEBUG: Открываю файл
+2026-04-04 12:09:55,944 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-04 12:10:49,895 - utils - DEBUG: Открываю файл
+2026-04-04 12:10:49,895 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-04 12:10:52,381 - utils - DEBUG: Открываю файл
+2026-04-04 12:10:52,383 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-04 12:48:36,337 - utils - DEBUG: Открываю файл
+2026-04-04 12:48:36,337 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-04 12:48:44,991 - utils - DEBUG: Открываю файл
+2026-04-04 12:48:44,992 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-04 12:50:44,617 - utils - DEBUG: Открываю файл
+2026-04-04 12:50:44,617 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-04 12:50:48,428 - utils - DEBUG: Открываю файл
+2026-04-04 12:50:48,429 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-04 12:50:56,086 - utils - DEBUG: Открываю файл
+2026-04-04 12:50:56,086 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-04 12:50:57,788 - utils - DEBUG: Открываю файл
+2026-04-04 12:50:57,790 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-04 12:52:25,456 - utils - DEBUG: Открываю файл
+2026-04-04 12:52:25,456 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-04 12:52:29,487 - utils - DEBUG: Открываю файл
+2026-04-04 12:52:29,489 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-04 12:53:35,497 - utils - DEBUG: Открываю файл
+2026-04-04 12:53:35,497 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-04 12:53:37,578 - utils - DEBUG: Открываю файл
+2026-04-04 12:53:37,579 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-04 12:55:02,928 - utils - DEBUG: Открываю файл
+2026-04-04 12:55:02,928 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-04 12:55:06,007 - utils - DEBUG: Открываю файл
+2026-04-04 12:55:06,008 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-04 12:59:22,947 - utils - DEBUG: Открываю файл
+2026-04-04 12:59:22,948 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-04 12:59:26,321 - utils - DEBUG: Открываю файл
+2026-04-04 12:59:26,322 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-04 18:51:15,971 - utils - DEBUG: Открываю файл
+2026-04-04 18:51:15,971 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-04 18:51:18,579 - utils - DEBUG: Открываю файл
+2026-04-04 18:51:18,581 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-04 18:54:48,888 - utils - DEBUG: Открываю файл
+2026-04-04 18:54:48,889 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-04 18:54:51,768 - utils - DEBUG: Открываю файл
+2026-04-04 18:54:51,770 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-04 19:02:34,707 - utils - DEBUG: Открываю файл
+2026-04-04 19:02:34,708 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-04 19:02:37,090 - utils - DEBUG: Открываю файл
+2026-04-04 19:02:37,111 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-04 19:07:44,868 - utils - DEBUG: Открываю файл
+2026-04-04 19:07:44,868 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-04 19:07:47,971 - utils - DEBUG: Открываю файл
+2026-04-04 19:07:47,973 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-04 19:13:25,196 - utils - DEBUG: Открываю файл
+2026-04-04 19:13:25,196 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-04 19:14:09,895 - utils - DEBUG: Открываю файл
+2026-04-04 19:14:09,896 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-04 19:14:47,997 - utils - DEBUG: Открываю файл
+2026-04-04 19:14:47,997 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-04 19:15:27,289 - utils - DEBUG: Открываю файл
+2026-04-04 19:15:27,289 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-04 19:15:29,402 - utils - DEBUG: Открываю файл
+2026-04-04 19:15:29,403 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-04 19:15:40,978 - utils - DEBUG: Открываю файл
+2026-04-04 19:15:40,979 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-04 19:15:42,432 - utils - DEBUG: Открываю файл
+2026-04-04 19:15:42,433 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-04 19:26:35,539 - utils - DEBUG: Открываю файл
+2026-04-04 19:26:35,539 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-04 19:28:18,050 - utils - DEBUG: Открываю файл
+2026-04-04 19:28:18,051 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-04 19:30:51,119 - utils - DEBUG: Открываю файл
+2026-04-04 19:30:51,119 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-04 19:30:53,487 - utils - DEBUG: Открываю файл
+2026-04-04 19:30:53,489 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 12:03:48,591 - utils - DEBUG: Открываю файл
+2026-04-05 12:03:48,592 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:04:48,821 - utils - DEBUG: Открываю файл
+2026-04-05 12:04:48,821 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:05:09,153 - utils - DEBUG: Открываю файл
+2026-04-05 12:05:09,153 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:05:30,512 - utils - DEBUG: Открываю файл
+2026-04-05 12:05:30,512 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:05:48,047 - utils - DEBUG: Открываю файл
+2026-04-05 12:05:48,048 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:14:16,445 - utils - DEBUG: Открываю файл
+2026-04-05 12:14:16,445 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:14:44,441 - utils - DEBUG: Открываю файл
+2026-04-05 12:14:44,442 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:15:20,429 - utils - DEBUG: Открываю файл
+2026-04-05 12:15:20,429 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:15:45,809 - utils - DEBUG: Открываю файл
+2026-04-05 12:15:45,810 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:15:58,806 - utils - DEBUG: Открываю файл
+2026-04-05 12:15:58,806 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:16:29,899 - utils - DEBUG: Открываю файл
+2026-04-05 12:16:29,899 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:17:02,455 - utils - DEBUG: Открываю файл
+2026-04-05 12:17:02,456 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:17:45,615 - utils - DEBUG: Открываю файл
+2026-04-05 12:17:45,615 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:18:19,390 - utils - DEBUG: Открываю файл
+2026-04-05 12:18:19,390 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:18:41,019 - utils - DEBUG: Открываю файл
+2026-04-05 12:18:41,020 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:19:11,242 - utils - DEBUG: Открываю файл
+2026-04-05 12:19:11,243 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:19:12,889 - utils - DEBUG: Открываю файл
+2026-04-05 12:19:12,891 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 12:19:20,318 - utils - DEBUG: Открываю файл
+2026-04-05 12:19:20,319 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:19:44,172 - utils - DEBUG: Открываю файл
+2026-04-05 12:19:44,172 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:20:05,089 - utils - DEBUG: Открываю файл
+2026-04-05 12:20:05,089 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:20:06,814 - utils - DEBUG: Открываю файл
+2026-04-05 12:20:06,816 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 12:23:15,056 - utils - DEBUG: Открываю файл
+2026-04-05 12:23:15,057 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:23:17,467 - utils - DEBUG: Открываю файл
+2026-04-05 12:23:17,469 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 12:23:42,453 - utils - DEBUG: Открываю файл
+2026-04-05 12:23:42,453 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:24:00,428 - utils - DEBUG: Открываю файл
+2026-04-05 12:24:00,428 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:24:54,403 - utils - DEBUG: Открываю файл
+2026-04-05 12:24:54,403 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:24:56,018 - utils - DEBUG: Открываю файл
+2026-04-05 12:24:56,020 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 12:29:15,149 - utils - DEBUG: Открываю файл
+2026-04-05 12:29:15,149 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:29:22,563 - utils - DEBUG: Открываю файл
+2026-04-05 12:29:22,563 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:29:24,171 - utils - DEBUG: Открываю файл
+2026-04-05 12:29:24,173 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 12:30:30,833 - utils - DEBUG: Открываю файл
+2026-04-05 12:30:30,833 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:31:42,105 - utils - DEBUG: Открываю файл
+2026-04-05 12:31:42,105 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:33:00,105 - utils - DEBUG: Открываю файл
+2026-04-05 12:33:00,106 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:33:03,001 - utils - DEBUG: Открываю файл
+2026-04-05 12:33:03,002 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 12:34:17,077 - utils - DEBUG: Открываю файл
+2026-04-05 12:34:17,077 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:34:20,366 - utils - DEBUG: Открываю файл
+2026-04-05 12:34:20,367 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 12:37:31,680 - utils - DEBUG: Открываю файл
+2026-04-05 12:37:31,680 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:37:34,392 - utils - DEBUG: Открываю файл
+2026-04-05 12:37:34,394 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 12:39:45,324 - utils - DEBUG: Открываю файл
+2026-04-05 12:39:45,324 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:39:48,042 - utils - DEBUG: Открываю файл
+2026-04-05 12:39:48,044 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 12:41:53,859 - utils - DEBUG: Открываю файл
+2026-04-05 12:41:53,860 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:42:51,048 - utils - DEBUG: Открываю файл
+2026-04-05 12:42:51,048 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:44:14,682 - utils - DEBUG: Открываю файл
+2026-04-05 12:44:14,682 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:46:03,403 - utils - DEBUG: Открываю файл
+2026-04-05 12:46:03,403 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:46:05,431 - utils - DEBUG: Открываю файл
+2026-04-05 12:46:05,432 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 12:46:39,300 - utils - DEBUG: Открываю файл
+2026-04-05 12:46:39,300 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:46:42,109 - utils - DEBUG: Открываю файл
+2026-04-05 12:46:42,110 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 12:48:34,526 - utils - DEBUG: Открываю файл
+2026-04-05 12:48:34,526 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:48:36,644 - utils - DEBUG: Открываю файл
+2026-04-05 12:48:36,645 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 12:49:07,021 - utils - DEBUG: Открываю файл
+2026-04-05 12:49:07,021 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:51:06,973 - utils - DEBUG: Открываю файл
+2026-04-05 12:51:06,974 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:51:17,056 - utils - DEBUG: Открываю файл
+2026-04-05 12:51:17,056 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:51:55,318 - utils - DEBUG: Открываю файл
+2026-04-05 12:51:55,318 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:52:35,454 - utils - DEBUG: Открываю файл
+2026-04-05 12:52:35,454 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:52:36,820 - utils - DEBUG: Открываю файл
+2026-04-05 12:52:36,823 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 12:53:08,199 - utils - DEBUG: Открываю файл
+2026-04-05 12:53:08,199 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:53:10,146 - utils - DEBUG: Открываю файл
+2026-04-05 12:53:10,147 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 12:53:24,992 - utils - DEBUG: Открываю файл
+2026-04-05 12:53:24,992 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:53:27,060 - utils - DEBUG: Открываю файл
+2026-04-05 12:53:27,061 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 12:55:08,459 - utils - DEBUG: Открываю файл
+2026-04-05 12:55:08,459 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:55:10,875 - utils - DEBUG: Открываю файл
+2026-04-05 12:55:10,876 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 12:55:43,603 - utils - DEBUG: Открываю файл
+2026-04-05 12:55:43,603 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:55:45,143 - utils - DEBUG: Открываю файл
+2026-04-05 12:55:45,145 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 12:55:54,198 - utils - DEBUG: Открываю файл
+2026-04-05 12:55:54,198 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:56:12,267 - utils - DEBUG: Открываю файл
+2026-04-05 12:56:12,267 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:56:23,464 - utils - DEBUG: Открываю файл
+2026-04-05 12:56:23,464 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:58:37,609 - utils - DEBUG: Открываю файл
+2026-04-05 12:58:37,610 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:58:39,774 - utils - DEBUG: Открываю файл
+2026-04-05 12:58:39,775 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 12:58:55,983 - utils - DEBUG: Открываю файл
+2026-04-05 12:58:55,984 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:59:10,605 - utils - DEBUG: Открываю файл
+2026-04-05 12:59:10,606 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:59:20,771 - utils - DEBUG: Открываю файл
+2026-04-05 12:59:20,772 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:59:31,573 - utils - DEBUG: Открываю файл
+2026-04-05 12:59:31,574 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 12:59:33,877 - utils - DEBUG: Открываю файл
+2026-04-05 12:59:33,879 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 12:59:56,367 - utils - DEBUG: Открываю файл
+2026-04-05 12:59:56,367 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 13:01:15,208 - utils - DEBUG: Открываю файл
+2026-04-05 13:01:15,208 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 13:01:26,356 - utils - DEBUG: Открываю файл
+2026-04-05 13:01:26,358 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 13:02:24,395 - utils - DEBUG: Открываю файл
+2026-04-05 13:02:24,395 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 13:02:26,786 - utils - DEBUG: Открываю файл
+2026-04-05 13:02:26,787 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 13:04:24,738 - utils - DEBUG: Открываю файл
+2026-04-05 13:04:24,738 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 13:04:27,627 - utils - DEBUG: Открываю файл
+2026-04-05 13:04:27,628 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 13:04:32,336 - utils - DEBUG: Открываю файл
+2026-04-05 13:04:32,336 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 13:04:39,521 - utils - DEBUG: Открываю файл
+2026-04-05 13:04:39,523 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 13:11:00,496 - utils - DEBUG: Открываю файл
+2026-04-05 13:11:00,496 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 13:11:03,962 - utils - DEBUG: Открываю файл
+2026-04-05 13:11:03,963 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 13:11:59,124 - utils - DEBUG: Открываю файл
+2026-04-05 13:11:59,124 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 13:12:00,474 - utils - DEBUG: Открываю файл
+2026-04-05 13:12:00,476 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 13:15:19,209 - utils - DEBUG: Открываю файл
+2026-04-05 13:15:19,210 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 13:15:22,358 - utils - DEBUG: Открываю файл
+2026-04-05 13:15:22,359 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 13:16:26,980 - utils - DEBUG: Открываю файл
+2026-04-05 13:16:26,981 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 13:16:29,162 - utils - DEBUG: Открываю файл
+2026-04-05 13:16:29,164 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 13:28:08,585 - utils - DEBUG: Открываю файл
+2026-04-05 13:28:08,585 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 13:28:10,655 - utils - DEBUG: Открываю файл
+2026-04-05 13:28:10,657 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 13:29:11,712 - utils - DEBUG: Открываю файл
+2026-04-05 13:29:11,712 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 13:29:13,270 - utils - DEBUG: Открываю файл
+2026-04-05 13:29:13,271 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 13:30:15,929 - utils - DEBUG: Открываю файл
+2026-04-05 13:30:15,929 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 13:30:16,988 - utils - DEBUG: Открываю файл
+2026-04-05 13:30:16,990 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 13:32:32,111 - utils - DEBUG: Открываю файл
+2026-04-05 13:32:32,111 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 13:32:33,855 - utils - DEBUG: Открываю файл
+2026-04-05 13:32:33,857 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 13:33:44,109 - utils - DEBUG: Открываю файл
+2026-04-05 13:33:44,109 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 13:33:46,722 - utils - DEBUG: Открываю файл
+2026-04-05 13:33:46,723 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 13:33:56,867 - utils - DEBUG: Открываю файл
+2026-04-05 13:33:56,868 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 13:33:58,630 - utils - DEBUG: Открываю файл
+2026-04-05 13:33:58,632 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 13:34:15,823 - utils - DEBUG: Открываю файл
+2026-04-05 13:34:15,823 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 13:34:17,235 - utils - DEBUG: Открываю файл
+2026-04-05 13:34:17,236 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 13:35:27,266 - utils - DEBUG: Открываю файл
+2026-04-05 13:35:27,266 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 13:35:28,538 - utils - DEBUG: Открываю файл
+2026-04-05 13:35:28,539 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 13:40:01,376 - utils - DEBUG: Открываю файл
+2026-04-05 13:40:01,376 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 13:40:03,430 - utils - DEBUG: Открываю файл
+2026-04-05 13:40:03,432 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 13:40:50,822 - utils - DEBUG: Открываю файл
+2026-04-05 13:40:50,822 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 13:40:54,026 - utils - DEBUG: Открываю файл
+2026-04-05 13:40:54,028 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 13:41:08,786 - utils - DEBUG: Открываю файл
+2026-04-05 13:41:08,787 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 13:41:10,290 - utils - DEBUG: Открываю файл
+2026-04-05 13:41:10,291 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 14:04:56,524 - utils - DEBUG: Открываю файл
+2026-04-05 14:04:56,525 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 14:04:59,799 - utils - DEBUG: Открываю файл
+2026-04-05 14:04:59,801 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 14:06:13,327 - utils - DEBUG: Открываю файл
+2026-04-05 14:06:13,327 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 14:06:15,628 - utils - DEBUG: Открываю файл
+2026-04-05 14:06:15,630 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 14:06:58,504 - utils - DEBUG: Открываю файл
+2026-04-05 14:06:58,504 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 14:06:59,845 - utils - DEBUG: Открываю файл
+2026-04-05 14:06:59,847 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 14:07:34,160 - utils - DEBUG: Открываю файл
+2026-04-05 14:07:34,161 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 14:07:35,283 - utils - DEBUG: Открываю файл
+2026-04-05 14:07:35,284 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 14:14:22,178 - utils - DEBUG: Открываю файл
+2026-04-05 14:14:22,178 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 14:14:26,947 - utils - DEBUG: Открываю файл
+2026-04-05 14:14:26,968 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 14:15:49,431 - utils - DEBUG: Открываю файл
+2026-04-05 14:15:49,432 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 14:15:54,953 - utils - DEBUG: Открываю файл
+2026-04-05 14:15:54,954 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 14:16:48,203 - utils - DEBUG: Открываю файл
+2026-04-05 14:16:48,203 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 14:16:51,397 - utils - DEBUG: Открываю файл
+2026-04-05 14:16:51,399 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-05 14:18:43,135 - utils - DEBUG: Открываю файл
+2026-04-05 14:18:43,135 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-05 14:18:49,000 - utils - DEBUG: Открываю файл
+2026-04-05 14:18:49,002 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-06 10:31:55,944 - utils - DEBUG: Открываю файл
+2026-04-06 10:31:55,945 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 10:31:57,973 - utils - DEBUG: Открываю файл
+2026-04-06 10:31:57,993 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-06 10:33:41,283 - utils - DEBUG: Открываю файл
+2026-04-06 10:33:41,283 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 10:33:44,657 - utils - DEBUG: Открываю файл
+2026-04-06 10:33:44,659 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-06 10:34:50,739 - utils - DEBUG: Открываю файл
+2026-04-06 10:34:50,739 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 10:34:52,823 - utils - DEBUG: Открываю файл
+2026-04-06 10:34:52,825 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-06 10:36:02,512 - utils - DEBUG: Открываю файл
+2026-04-06 10:36:02,512 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 10:36:04,315 - utils - DEBUG: Открываю файл
+2026-04-06 10:36:04,317 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-06 10:37:45,666 - utils - DEBUG: Открываю файл
+2026-04-06 10:37:45,667 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 10:37:47,526 - utils - DEBUG: Открываю файл
+2026-04-06 10:37:47,528 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-06 10:47:07,195 - utils - DEBUG: Открываю файл
+2026-04-06 10:47:07,196 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 10:47:14,384 - utils - DEBUG: Открываю файл
+2026-04-06 10:47:14,387 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-06 10:50:31,719 - utils - DEBUG: Открываю файл
+2026-04-06 10:50:31,719 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 10:50:33,298 - utils - DEBUG: Открываю файл
+2026-04-06 10:50:33,300 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-06 10:55:34,598 - utils - DEBUG: Открываю файл
+2026-04-06 10:55:34,598 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 10:55:37,330 - utils - DEBUG: Открываю файл
+2026-04-06 10:55:37,332 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-06 10:59:04,178 - utils - DEBUG: Открываю файл
+2026-04-06 10:59:04,179 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 11:07:33,280 - utils - DEBUG: Открываю файл
+2026-04-06 11:07:33,280 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 11:07:35,305 - utils - DEBUG: Открываю файл
+2026-04-06 11:07:35,307 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-06 11:13:15,500 - utils - DEBUG: Открываю файл
+2026-04-06 11:13:15,500 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 11:13:19,239 - utils - DEBUG: Открываю файл
+2026-04-06 11:13:19,241 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-06 11:16:11,125 - utils - DEBUG: Открываю файл
+2026-04-06 11:16:11,126 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 11:16:12,795 - utils - DEBUG: Открываю файл
+2026-04-06 11:16:12,797 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-06 11:29:34,839 - utils - DEBUG: Открываю файл
+2026-04-06 11:29:34,840 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 11:29:37,197 - utils - DEBUG: Открываю файл
+2026-04-06 11:29:37,200 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-06 11:32:49,750 - utils - DEBUG: Открываю файл
+2026-04-06 11:32:49,751 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 11:32:51,718 - utils - DEBUG: Открываю файл
+2026-04-06 11:32:51,719 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-06 11:36:17,789 - utils - DEBUG: Открываю файл
+2026-04-06 11:36:17,789 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 11:36:19,688 - utils - DEBUG: Открываю файл
+2026-04-06 11:36:19,689 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-06 11:36:47,745 - utils - DEBUG: Открываю файл
+2026-04-06 11:36:47,746 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 11:36:49,275 - utils - DEBUG: Открываю файл
+2026-04-06 11:36:49,277 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-06 11:38:28,489 - utils - DEBUG: Открываю файл
+2026-04-06 11:38:28,489 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 11:38:30,605 - utils - DEBUG: Открываю файл
+2026-04-06 11:38:30,606 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-06 11:39:28,514 - utils - DEBUG: Открываю файл
+2026-04-06 11:39:28,515 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 11:39:48,343 - utils - DEBUG: Открываю файл
+2026-04-06 11:39:48,344 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 11:41:08,520 - utils - DEBUG: Открываю файл
+2026-04-06 11:41:08,521 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 11:41:10,854 - utils - DEBUG: Открываю файл
+2026-04-06 11:41:10,856 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-06 11:42:31,966 - utils - DEBUG: Открываю файл
+2026-04-06 11:42:31,966 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 12:41:04,577 - utils - DEBUG: Открываю файл
+2026-04-06 12:41:04,578 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 12:41:40,859 - utils - DEBUG: Открываю файл
+2026-04-06 12:41:40,859 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 12:41:47,802 - utils - DEBUG: Открываю файл
+2026-04-06 12:41:47,823 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-06 12:43:29,020 - utils - DEBUG: Открываю файл
+2026-04-06 12:43:29,020 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 12:43:31,824 - utils - DEBUG: Открываю файл
+2026-04-06 12:43:31,826 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-06 12:44:12,934 - utils - DEBUG: Открываю файл
+2026-04-06 12:44:12,934 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 12:55:12,941 - utils - DEBUG: Открываю файл
+2026-04-06 12:55:12,942 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 12:55:20,507 - utils - DEBUG: Открываю файл
+2026-04-06 12:55:20,507 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 12:57:55,728 - utils - DEBUG: Открываю файл
+2026-04-06 12:57:55,729 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 12:59:46,013 - utils - DEBUG: Открываю файл
+2026-04-06 12:59:46,014 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 13:00:11,291 - utils - DEBUG: Открываю файл
+2026-04-06 13:00:11,291 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 13:00:52,815 - utils - DEBUG: Открываю файл
+2026-04-06 13:00:52,815 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 13:05:24,622 - utils - DEBUG: Открываю файл
+2026-04-06 13:05:24,622 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 13:07:26,668 - utils - DEBUG: Открываю файл
+2026-04-06 13:07:26,669 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 13:14:18,741 - utils - DEBUG: Открываю файл
+2026-04-06 13:14:18,741 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 13:14:52,001 - utils - DEBUG: Открываю файл
+2026-04-06 13:14:52,001 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 13:15:09,812 - utils - DEBUG: Открываю файл
+2026-04-06 13:15:09,812 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 13:16:09,379 - utils - DEBUG: Открываю файл
+2026-04-06 13:16:09,379 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 13:19:48,082 - utils - DEBUG: Открываю файл
+2026-04-06 13:19:48,082 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 13:24:25,042 - utils - DEBUG: Открываю файл
+2026-04-06 13:24:25,042 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 13:24:45,384 - utils - DEBUG: Открываю файл
+2026-04-06 13:24:45,384 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 13:24:47,910 - utils - DEBUG: Открываю файл
+2026-04-06 13:24:47,911 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-06 13:25:31,149 - utils - DEBUG: Открываю файл
+2026-04-06 13:25:31,149 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 13:25:37,230 - utils - DEBUG: Открываю файл
+2026-04-06 13:25:37,232 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-06 13:26:03,813 - utils - DEBUG: Открываю файл
+2026-04-06 13:26:03,813 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 13:26:06,489 - utils - DEBUG: Открываю файл
+2026-04-06 13:26:06,490 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-06 13:26:27,781 - utils - DEBUG: Открываю файл
+2026-04-06 13:26:27,782 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 13:26:29,308 - utils - DEBUG: Открываю файл
+2026-04-06 13:26:29,309 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-06 13:27:18,259 - utils - DEBUG: Открываю файл
+2026-04-06 13:27:18,259 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 13:28:46,188 - utils - DEBUG: Открываю файл
+2026-04-06 13:28:46,188 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 13:28:58,626 - utils - DEBUG: Открываю файл
+2026-04-06 13:28:58,626 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 13:29:19,650 - utils - DEBUG: Открываю файл
+2026-04-06 13:29:19,650 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 13:29:37,654 - utils - DEBUG: Открываю файл
+2026-04-06 13:29:37,654 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 13:30:17,441 - utils - DEBUG: Открываю файл
+2026-04-06 13:30:17,441 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 13:30:19,903 - utils - DEBUG: Открываю файл
+2026-04-06 13:30:19,905 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-06 13:30:42,465 - utils - DEBUG: Открываю файл
+2026-04-06 13:30:42,465 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 13:30:45,999 - utils - DEBUG: Открываю файл
+2026-04-06 13:30:46,001 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-06 13:31:28,927 - utils - DEBUG: Открываю файл
+2026-04-06 13:31:28,927 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 13:31:31,377 - utils - DEBUG: Открываю файл
+2026-04-06 13:31:31,379 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-06 13:31:50,312 - utils - DEBUG: Открываю файл
+2026-04-06 13:31:50,312 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 13:31:52,493 - utils - DEBUG: Открываю файл
+2026-04-06 13:31:52,495 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-06 13:32:10,546 - utils - DEBUG: Открываю файл
+2026-04-06 13:32:10,547 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 13:32:14,657 - utils - DEBUG: Открываю файл
+2026-04-06 13:32:14,659 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-06 13:32:36,086 - utils - DEBUG: Открываю файл
+2026-04-06 13:32:36,086 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 13:32:38,825 - utils - DEBUG: Открываю файл
+2026-04-06 13:32:38,827 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-06 13:40:39,837 - utils - DEBUG: Открываю файл
+2026-04-06 13:40:39,838 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 13:40:42,769 - utils - DEBUG: Открываю файл
+2026-04-06 13:40:42,771 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-06 13:40:47,242 - utils - DEBUG: Открываю файл
+2026-04-06 13:40:47,243 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 13:41:16,655 - utils - DEBUG: Открываю файл
+2026-04-06 13:41:16,655 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 13:43:11,611 - utils - DEBUG: Открываю файл
+2026-04-06 13:43:11,612 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 13:47:06,698 - utils - DEBUG: Открываю файл
+2026-04-06 13:47:06,699 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 13:48:50,933 - utils - DEBUG: Открываю файл
+2026-04-06 13:48:50,933 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 13:49:16,108 - utils - DEBUG: Открываю файл
+2026-04-06 13:49:16,108 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 13:49:17,495 - utils - DEBUG: Открываю файл
+2026-04-06 13:49:17,497 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-06 13:55:23,579 - utils - DEBUG: Открываю файл
+2026-04-06 13:55:23,580 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 13:55:49,590 - utils - DEBUG: Открываю файл
+2026-04-06 13:55:49,591 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 13:56:16,449 - utils - DEBUG: Открываю файл
+2026-04-06 13:56:16,449 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 13:56:36,404 - utils - DEBUG: Открываю файл
+2026-04-06 13:56:36,405 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 13:56:54,714 - utils - DEBUG: Открываю файл
+2026-04-06 13:56:54,714 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 14:00:10,340 - utils - DEBUG: Открываю файл
+2026-04-06 14:00:10,340 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 14:00:40,593 - utils - DEBUG: Открываю файл
+2026-04-06 14:00:40,593 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 14:00:45,471 - utils - DEBUG: Открываю файл
+2026-04-06 14:00:45,473 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-06 14:01:08,365 - utils - DEBUG: Открываю файл
+2026-04-06 14:01:08,365 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 14:06:01,092 - utils - DEBUG: Открываю файл
+2026-04-06 14:06:01,092 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 14:06:03,619 - utils - DEBUG: Открываю файл
+2026-04-06 14:06:03,621 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-06 14:06:23,460 - utils - DEBUG: Открываю файл
+2026-04-06 14:06:23,461 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 14:06:42,928 - utils - DEBUG: Открываю файл
+2026-04-06 14:06:42,929 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 14:10:18,870 - utils - DEBUG: Открываю файл
+2026-04-06 14:10:18,870 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 14:14:04,761 - utils - DEBUG: Открываю файл
+2026-04-06 14:14:04,761 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 14:15:54,866 - utils - DEBUG: Открываю файл
+2026-04-06 14:15:54,867 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 14:16:18,929 - utils - DEBUG: Открываю файл
+2026-04-06 14:16:18,929 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 14:21:59,313 - utils - DEBUG: Открываю файл
+2026-04-06 14:21:59,314 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 14:22:02,282 - utils - DEBUG: Открываю файл
+2026-04-06 14:22:02,284 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-06 14:22:53,160 - utils - DEBUG: Открываю файл
+2026-04-06 14:22:53,160 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 14:23:17,523 - utils - DEBUG: Открываю файл
+2026-04-06 14:23:17,524 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 14:23:36,758 - utils - DEBUG: Открываю файл
+2026-04-06 14:23:36,758 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 14:29:20,160 - utils - DEBUG: Открываю файл
+2026-04-06 14:29:20,160 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 14:29:48,644 - utils - DEBUG: Открываю файл
+2026-04-06 14:29:48,644 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 14:30:10,406 - utils - DEBUG: Открываю файл
+2026-04-06 14:30:10,406 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 14:31:35,385 - utils - DEBUG: Открываю файл
+2026-04-06 14:31:35,385 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 14:32:00,283 - utils - DEBUG: Открываю файл
+2026-04-06 14:32:00,283 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 14:32:23,107 - utils - DEBUG: Открываю файл
+2026-04-06 14:32:23,107 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 14:32:39,489 - utils - DEBUG: Открываю файл
+2026-04-06 14:32:39,489 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 14:32:58,406 - utils - DEBUG: Открываю файл
+2026-04-06 14:32:58,406 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 14:33:24,668 - utils - DEBUG: Открываю файл
+2026-04-06 14:33:24,668 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 14:33:43,353 - utils - DEBUG: Открываю файл
+2026-04-06 14:33:43,354 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 14:38:03,639 - utils - DEBUG: Открываю файл
+2026-04-06 14:38:03,640 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 14:38:24,287 - utils - DEBUG: Открываю файл
+2026-04-06 14:38:24,287 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 14:38:42,320 - utils - DEBUG: Открываю файл
+2026-04-06 14:38:42,320 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 14:38:52,144 - utils - DEBUG: Открываю файл
+2026-04-06 14:38:52,145 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 14:39:17,180 - utils - DEBUG: Открываю файл
+2026-04-06 14:39:17,180 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 14:39:18,407 - utils - DEBUG: Открываю файл
+2026-04-06 14:39:18,409 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-06 14:39:36,623 - utils - DEBUG: Открываю файл
+2026-04-06 14:39:36,623 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 14:54:58,015 - utils - DEBUG: Открываю файл
+2026-04-06 14:54:58,015 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 15:00:45,248 - utils - DEBUG: Открываю файл
+2026-04-06 15:00:45,248 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 15:01:24,794 - utils - DEBUG: Открываю файл
+2026-04-06 15:01:24,794 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 15:01:26,848 - utils - DEBUG: Открываю файл
+2026-04-06 15:01:26,850 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-06 15:03:15,847 - utils - DEBUG: Открываю файл
+2026-04-06 15:03:15,847 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 15:03:24,248 - utils - DEBUG: Открываю файл
+2026-04-06 15:03:24,248 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 15:06:03,118 - utils - DEBUG: Открываю файл
+2026-04-06 15:06:03,118 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 15:06:46,904 - utils - DEBUG: Открываю файл
+2026-04-06 15:06:46,904 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 15:08:30,648 - utils - DEBUG: Открываю файл
+2026-04-06 15:08:30,648 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 15:08:31,963 - utils - DEBUG: Открываю файл
+2026-04-06 15:08:31,964 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-06 15:09:08,719 - utils - DEBUG: Открываю файл
+2026-04-06 15:09:08,719 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 15:09:26,871 - utils - DEBUG: Открываю файл
+2026-04-06 15:09:26,871 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 15:09:31,552 - utils - DEBUG: Открываю файл
+2026-04-06 15:09:31,554 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-06 15:09:45,488 - utils - DEBUG: Открываю файл
+2026-04-06 15:09:45,488 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 15:10:38,518 - utils - DEBUG: Открываю файл
+2026-04-06 15:10:38,518 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 15:10:43,620 - utils - DEBUG: Открываю файл
+2026-04-06 15:10:43,622 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-06 15:11:01,000 - utils - DEBUG: Открываю файл
+2026-04-06 15:11:01,000 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 15:11:19,552 - utils - DEBUG: Открываю файл
+2026-04-06 15:11:19,552 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 15:12:10,680 - utils - DEBUG: Открываю файл
+2026-04-06 15:12:10,681 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 15:12:11,108 - utils - DEBUG: Открываю файл
+2026-04-06 15:12:11,108 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-06 15:12:11,111 - utils - DEBUG: Открываю файл
+2026-04-06 15:12:11,112 - utils - ERROR: Произошла ошибка: 
+2026-04-06 15:12:11,116 - utils - DEBUG: Открываю файл
+2026-04-06 15:12:11,116 - utils - ERROR: Произошла ошибка: Expecting value: line 1 column 1 (char 0)
+2026-04-06 15:14:02,902 - utils - DEBUG: Открываю файл
+2026-04-06 15:14:02,902 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 15:14:02,985 - utils - DEBUG: Открываю файл
+2026-04-06 15:14:02,985 - utils - DEBUG: Данные успешно прочитаны, это список
+2026-04-06 15:14:02,988 - utils - DEBUG: Открываю файл
+2026-04-06 15:14:02,988 - utils - ERROR: Произошла ошибка: 
+2026-04-06 15:14:02,993 - utils - DEBUG: Открываю файл
+2026-04-06 15:14:02,995 - utils - ERROR: Произошла ошибка: Expecting value: line 1 column 1 (char 0)
+2026-04-06 15:14:10,032 - utils - DEBUG: Открываю файл
+2026-04-06 15:14:10,032 - utils - ERROR: Произошла ошибка: [Errno 2] No such file or directory: 'test.json'
+2026-04-06 15:14:16,970 - utils - DEBUG: Открываю файл
+2026-04-06 15:14:16,972 - utils - DEBUG: Данные успешно прочитаны, это список
