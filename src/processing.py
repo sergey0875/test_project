@@ -4,7 +4,8 @@ def filter_by_state(data_list: list[dict], state: str = "EXECUTED") -> list[dict
     filtered_list = []  # создаем пустой список.
 
     for item in data_list:
-        if item.get("state") == state:  # Проверяем значение.
+        item_state = str(item.get("state", "")).strip()
+        if item_state == state:  # Проверяем значение.
             filtered_list.append(item)  # Добавляем в новый список, если значение соответствует.
 
     return filtered_list

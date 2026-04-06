@@ -8,7 +8,7 @@ def load_csv_data(transactions: str) -> list[dict[str, Any]]:
     """Функция для считывания csv файла и возврата списка словарей."""
 
     with open(transactions, encoding="utf-8") as file:  # Открываем файл csv
-        reader = csv.DictReader(file)
+        reader = csv.DictReader(file, delimiter=";")
         result = []
         for row in reader:  # Итерация по файлу csv
             result.append(row)
@@ -23,4 +23,4 @@ def import_excel_data(transactions_two: str) -> list[dict[str, Any]]:
 
 
 # print(import_excel_data("C:/Users/sepaa/PycharmProjects/test_project/data/transactions_excel.xlsx"))
-# load_csv_data("C:/Users/sepaa/PycharmProjects/test_project/data/transactions.csv")
+# print(load_csv_data("C:/Users/sepaa/PycharmProjects/test_project/data/transactions.csv"))
